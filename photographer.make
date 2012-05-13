@@ -29,19 +29,10 @@ projects[markdown][patch][684554] = http://drupal.org/files/issues/markdown-6845
 ; Custom
 ;--------------------
 
-; Include "seotools" git
+; Include levelten features
 includes[seotools] = http://github.com/dwork/make-seotools/raw/master/seotools.make.inc
-includes[socialmedia] = http://github.com/dwork/make-socialmedia/raw/master/socialmedia.make
-
-; Include "socialmedia" git
-;projects[socialmedia][type] = module
-;projects[socialmedia][download][type] = git
-;projects[socialmedia][download][url] = git://github.com/dwork/make-socialmedia.git
-
-; Include "enterprise_blog" git
-;projects[enterprise_blog][type] = module
-;projects[enterprise_blog][download][type] = git
-;projects[enterprise_blog][download][url] = git://github.com/dwork/make-enterprise-blog.git
+includes[socialmedia] = http://github.com/dwork/make-socialmedia/raw/master/socialmedia.make.inc
+includes[enterprise_blog] = http://github.com/dwork/make-enterprise-blog/raw/master/enterprise_blog.make.inc
 
 ;--------------------
 ; Development
