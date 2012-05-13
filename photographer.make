@@ -30,9 +30,9 @@ projects[markdown][patch][684554] = http://drupal.org/files/issues/markdown-6845
 ;--------------------
 
 ; Include "seotools" git
-projects[seotools][subdir] = contrib
-projects[seotools][download][type] = git
-projects[seotools][download][url] = git://github.com/dwork/make-seotools.git
+;projects[seotools][subdir] = contrib
+;projects[seotools][download][type] = git
+;projects[seotools][download][url] = git://github.com/dwork/make-seotools.git
 
 ; Include "socialmedia" git
 ;projects[socialmedia][type] = module
