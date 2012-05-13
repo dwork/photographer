@@ -30,6 +30,8 @@ dependencies[] = strongarm
 dependencies[] = views
 dependencies[] = views_ui
 
-; Custom
+; Custom Features
 
 dependencies[] = seotools
+dependencies[] = socialmedia
+dependencies[] = enterprise_blog
