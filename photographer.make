@@ -37,6 +37,10 @@ includes[enterprise_rotator] = http://github.com/dwork/make-levelten/raw/master/
 includes[enterprise_events] = http://github.com/dwork/make-levelten/raw/master/enterprise_events.make.inc
 includes[enterprise_faq] = http://github.com/dwork/make-levelten/raw/master/enterprise_faq.make.inc
 includes[enterprise_forum] = http://github.com/dwork/make-levelten/raw/master/enterprise_forum.make.inc
+includes[enterprise_links] = http://github.com/dwork/make-levelten/raw/master/enterprise_links.make.inc
+includes[enterprise_location] = http://github.com/dwork/make-levelten/raw/master/enterprise_location.make.inc
+includes[enterprise_images] = http://github.com/dwork/make-levelten/raw/master/enterprise_images.make.inc
+includes[enterprise_video] = http://github.com/dwork/make-levelten/raw/master/enterprise_video.make.inc
 
 ;--------------------
 ; Development
