@@ -18,6 +18,9 @@ projects[rubik][subdir] = contrib
 projects[link][subdir] = contrib
 projects[link][version] = 1.0
 
+projects[admin_menu][subdir] = contrib
+projects[admin_menu][version] = 3.0-rc2
+
 projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.0
 
