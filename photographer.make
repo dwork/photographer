@@ -35,6 +35,8 @@ includes[socialmedia] = http://github.com/dwork/make-levelten/raw/master/socialm
 includes[enterprise_blog] = http://github.com/dwork/make-levelten/raw/master/enterprise_blog.make.inc
 includes[enterprise_rotator] = http://github.com/dwork/make-levelten/raw/master/enterprise_rotator.make.inc
 includes[enterprise_events] = http://github.com/dwork/make-levelten/raw/master/enterprise_events.make.inc
+includes[enterprise_faq] = http://github.com/dwork/make-levelten/raw/master/enterprise_faq.make.inc
+includes[enterprise_forum] = http://github.com/dwork/make-levelten/raw/master/enterprise_forum.make.inc
 
 ;--------------------
 ; Development
