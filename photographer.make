@@ -36,6 +36,7 @@ projects[markdown][patch][684554] = http://drupal.org/files/issues/markdown-6845
 ;--------------------
 
 ; Include levelten features
+includes[enterprise_base] = http://github.com/dwork/make-levelten/raw/master/enterprise_base.make.inc
 includes[seotools] = http://github.com/dwork/make-levelten/raw/master/seotools.make.inc
 includes[socialmedia] = http://github.com/dwork/make-levelten/raw/master/socialmedia.make.inc
 includes[enterprise_blog] = http://github.com/dwork/make-levelten/raw/master/enterprise_blog.make.inc
