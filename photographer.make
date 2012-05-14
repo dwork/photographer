@@ -15,6 +15,9 @@ projects[rubik][subdir] = contrib
 ; Additional Contrib
 ;--------------------
 
+projects[link][subdir] = contrib
+projects[link][version] = 1.0
+
 projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.0
 
