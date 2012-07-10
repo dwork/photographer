@@ -1,0 +1,10 @@
+<?php
+
+/**
+ * Implements hook_install().
+ */
+function parked_install() {
+  theme_enable(array('bartik'));
+  theme_enable(array('bartikparked'));
+  variable_set('theme_default', 'bartikparked');
+}

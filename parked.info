@@ -1,0 +1,36 @@
+name = parked
+core = 7.x
+description =  Parked Domains
+
+; Core
+dependencies[] = block
+dependencies[] = book
+dependencies[] = contact
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = menu
+dependencies[] = path
+dependencies[] = taxonomy
+
+; Contrib
+dependencies[] = admin
+dependencies[] = admin_menu
+dependencies[] = boxes
+dependencies[] = openid
+dependencies[] = openidadmin
+dependencies[] = coder
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = ctools
+dependencies[] = devel
+dependencies[] = diff
+dependencies[] = features
+dependencies[] = markdown
+dependencies[] = strongarm
+dependencies[] = views
+dependencies[] = views_ui
+
+; Custom Features
+
+dependencies[] = seotools
